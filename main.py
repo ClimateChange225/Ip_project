@@ -1,5 +1,5 @@
 import sys
-#importing sys-os module
+#importing os-sys module
 from tabulate import tabulate
 #importing tabulate
 
